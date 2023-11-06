@@ -9,7 +9,7 @@
 * ✉️  You can contact me at [andrii.1669@gmail.com](mailto:andrii.1669@gmail.com)
 * 🌱 I’m currently learning **Python**
 * 🔭 I’m currently working on [SpaceProject](https://galaxyglance.netlify.app/)
-* ⚡  By the way, I like volleyball
+* 🏐  By the way, I like volleyball
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
