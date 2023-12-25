@@ -5,7 +5,6 @@
 
 
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [Portfolio](http://company.com)
 * ✉️  You can contact me at [andrii.1669@gmail.com](mailto:andrii.1669@gmail.com)
 * 🌱 I’m currently learning **Python**
 * 🔭 I’m currently working on [SpaceProject](https://galaxyglance.netlify.app/)
