@@ -7,7 +7,7 @@
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [andrii.1669@gmail.com](mailto:andrii.1669@gmail.com)
 * 🌱 I’m currently learning **Python**
-* 🔭 I’m currently working on [SpaceProject](https://galaxyglance.netlify.app/)
+* 🔭 Take a look at my projects: [SpaceProject](https://galaxyglance.netlify.app/), [Culinary Odyssey](https://elusive.pythonanywhere.com/)
 * 🏐  By the way, I like volleyball
 
 <h3 align="left">Connect with me:</h3>
