@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Andrii</h1>
-<h3 align="center">I have been learning programming for 2 years. Exactly in these areas I would like to work later. In this way I have gained basic knowledge in areas of front-end and software developer with Python</h3>
+<h3 align="center">I have been learning programming for 3 years. Exactly in these areas I would like to work later. In this way I have gained basic knowledge in areas of front-end and software developer with Python</h3>
 
 <img align='right' src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="" style='width: 450px;'>
 
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [andrii.1669@gmail.com](mailto:andrii.1669@gmail.com)
-* 🌱 I’m currently learning **Python**
-* 🔭 Take a look at my projects: [SpaceProject](https://galaxyglance.netlify.app/), [Culinary Odyssey](https://elusive.pythonanywhere.com/)
+* 🌱 I’m currently learning **DevOps engineering**
+* 🔭 Take a look at my projects: [SpaceProject](https://galaxyglance.netlify.app/), [Culinary Odyssey](https://elusive.pythonanywhere.com/), [Portfolio](https://elusive.pythonanywhere.com/https://myportfooli0.netlify.app/)
 * 🏐  By the way, I like volleyball
 
 <h3 align="left">Connect with me:</h3>
