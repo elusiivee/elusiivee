@@ -21,8 +21,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elusiivee&show_icons=true&locale=en&layout=compact" alt="elusiivee" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elusiivee&show_icons=true&locale=en" alt="elusiivee" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elusiivee&" alt="elusiivee" /></p>
-
