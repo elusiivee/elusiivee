@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrii</h1>
-<h3 align="center">I have been learning programming for 3 years. Exactly in these areas I would like to work later. In this way I have gained basic knowledge in areas of front-end and software developer with Python</h3>
+<h3 align="center">I have been learning programming for 3 years. Exactly in these areas I would like to work later. In this way I have gained basic knowledge in areas of front-end and software developer with Python, Java and JavaScript</h3>
 
 <img align='right' src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="" style='width: 450px;'>
 
